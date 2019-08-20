@@ -33,6 +33,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Workspace\selenium_dobasico_aogride"/>
 			<item value="C:\Users\priscila.franca\Desktop\Selenium IDE e WebDriver"/>
 		</list>
 		<list key="projectNameTemplate">
