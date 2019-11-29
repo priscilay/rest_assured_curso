@@ -1,0 +1,5 @@
+package br.ce.priscila.rest;
+
+public class OlaMundo {
+
+}

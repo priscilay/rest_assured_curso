@@ -2,10 +2,14 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="br.teste.priscilafranca"/>
+			<item value="br.ce.priscilafranca"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="teste_web"/>
+			<item value="CursoRest"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -33,6 +37,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\priscila.franca\git\selenium_java\curso_selenium"/>
 			<item value="C:\Workspace\selenium_dobasico_aogride"/>
 			<item value="C:\Users\priscila.franca\Desktop\Selenium IDE e WebDriver"/>
 		</list>
@@ -73,13 +78,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="curso_selenium.curso_selenium"/>
 		</list>
 		<list key="groupId">
-			<item value="curso_selenium"/>
 		</list>
 		<list key="artifactId">
-			<item value="curso_selenium"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

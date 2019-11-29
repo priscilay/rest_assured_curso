@@ -6,6 +6,7 @@
 		<item value="github.com"/>
 	</list>
 	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/priscilay/selenium_java.git"/>
 		<item value="https://github.com/priscilay/selenium_dobasico_aogride.git"/>
 	</list>
 	<list key="CommitDialog.authorValues">
