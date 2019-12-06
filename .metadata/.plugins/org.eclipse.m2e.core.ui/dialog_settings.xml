@@ -37,15 +37,17 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\priscila.franca\git\teste_automacao_web"/>
+			<item value="C:\Users\priscila.franca\Downloads\selenium codigo curso udemy\ProjetoBasico"/>
 			<item value="C:\Users\priscila.franca\git\selenium_java\curso_selenium"/>
 			<item value="C:\Workspace\selenium_dobasico_aogride"/>
 			<item value="C:\Users\priscila.franca\Desktop\Selenium IDE e WebDriver"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="[groupId].[artifactId]"/>
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
 			<item value="[artifactId]-[version]"/>
-			<item value="[groupId].[artifactId]"/>
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>

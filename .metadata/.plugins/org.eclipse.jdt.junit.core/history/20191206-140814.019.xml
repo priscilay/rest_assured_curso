@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RunTests (1)" project="curso_selenium.curso_selenium" tests="16" started="16" failures="0" errors="0" ignored="0">
+  <testsuite name="suites.RunTests" time="26.558">
+    <testsuite name="test.TesteRegrasCadastro" time="17.276">
+      <testsuite name="[0]" time="12.216">
+        <testcase name="validarRegras[0]" classname="test.TesteRegrasCadastro" time="12.216"/>
+      </testsuite>
+      <testsuite name="[1]" time="0.884">
+        <testcase name="validarRegras[1]" classname="test.TesteRegrasCadastro" time="0.883"/>
+      </testsuite>
+      <testsuite name="[2]" time="1.029">
+        <testcase name="validarRegras[2]" classname="test.TesteRegrasCadastro" time="1.029"/>
+      </testsuite>
+      <testsuite name="[3]" time="1.454">
+        <testcase name="validarRegras[3]" classname="test.TesteRegrasCadastro" time="1.454"/>
+      </testsuite>
+      <testsuite name="[4]" time="1.693">
+        <testcase name="validarRegras[4]" classname="test.TesteRegrasCadastro" time="1.693"/>
+      </testsuite>
+    </testsuite>
+    <testsuite name="test.TesteCampoTreinamento" time="9.282">
+      <testcase name="testeCombo" classname="test.TesteCampoTreinamento" time="0.659"/>
+      <testcase name="testeLinks" classname="test.TesteCampoTreinamento" time="0.603"/>
+      <testcase name="testeRadio" classname="test.TesteCampoTreinamento" time="0.552"/>
+      <testcase name="testeComboValoresMultiplaEscolha" classname="test.TesteCampoTreinamento" time="1.611"/>
+      <testcase name="testeTexFieldDuplo" classname="test.TesteCampoTreinamento" time="0.837"/>
+      <testcase name="testeBotoes" classname="test.TesteCampoTreinamento" time="0.562"/>
+      <testcase name="testeTextArea" classname="test.TesteCampoTreinamento" time="0.635"/>
+      <testcase name="testeTextField" classname="test.TesteCampoTreinamento" time="0.538"/>
+      <testcase name="testeTextoPage" classname="test.TesteCampoTreinamento" time="0.52"/>
+      <testcase name="testeComboValores" classname="test.TesteCampoTreinamento" time="0.964"/>
+      <testcase name="deveClicarBotaoTabela" classname="test.TesteCampoTreinamento" time="1.798"/>
+    </testsuite>
+  </testsuite>
+</testrun>

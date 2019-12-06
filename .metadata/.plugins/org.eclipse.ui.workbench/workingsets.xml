@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1575520500793_2" label="curso_selenium" name="curso_selenium">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/teste_automacao_web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/curso_selenium.curso_selenium" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1548086250207_0" label="Window Working Set" name="Aggregate for window 1548086250207"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1548176989685_1" label="Window Working Set" name="Aggregate for window 1548176989685"/>
 </workingSetManager>

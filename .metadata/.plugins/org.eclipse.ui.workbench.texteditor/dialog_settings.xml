@@ -2,22 +2,25 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="" key="selection"/>
+		<item value="getDriver()." key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="driver."/>
+			<item value="getDriver."/>
+			<item value="getDriver;"/>
+			<item value="clicar"/>
 			<item value="200"/>
 			<item value="clicarR"/>
 			<item value="radio"/>
 			<item value="obter"/>
-			<item value="Alert"/>
-			<item value="Nome"/>
-			<item value="name"/>
-			<item value="nome"/>
 		</list>
 		<list key="replacehistory">
+			<item value="getDriver()."/>
+			<item value="getDriver."/>
+			<item value="getDriver;"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">

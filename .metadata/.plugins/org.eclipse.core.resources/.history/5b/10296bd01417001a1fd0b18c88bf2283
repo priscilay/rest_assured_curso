@@ -1,0 +1,50 @@
+package curso_selenium;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+import org.openqa.selenium.By;
+import org.openqa.selenium.Dimension;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+import junit.framework.Assert;
+
+@SuppressWarnings("deprecation")
+public class TesteAjax {
+	
+	private WebDriver driver;
+	private DSL dsl;
+	
+	@Before
+	public void init(){
+		System.setProperty("webdriver.chrome.driver", "\\Users\\priscila.franca\\Downloads\\drivers\\chromedriver.exe");
+
+		driver = new ChromeDriver();
+		driver.manage().window().setSize(new Dimension(1200, 765));
+		driver.get("https://www.primefaces.org/showcase/ui/ajax/basic.xhtml");
+		System.getProperty("user.dir");
+		dsl = new DSL(driver);
+	}
+
+	
+	@After
+	public void finaliza(){
+		//driver.quit();
+	}
+	
+	@Test
+	public void testeAjax(){
+		//driver.findElement(By.id("j_idt715:name"));
+		driver.findElement(By.name("j_idt709:name")).sendKeys("agora vai");
+		//dsl.escrever("j_idt709:name", "teste");
+//		dsl.clicar("j_idt715:j_idt718");
+//		WebDriverWait wait = new WebDriverWait(driver, 30);
+//		wait.until(ExpectedConditions.textToBe(By.id("j_idt715:display"), "teste"));
+//		Assert.assertEquals("teste", dsl.obterTexto("j_idt715:display"));
+		
+	}
+
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TesteCampoTreinamento (1)" project="curso_selenium.curso_selenium" tests="12" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="curso_selenium.TesteCampoTreinamento" incomplete="true">
+    <testcase name="testeCombo" classname="curso_selenium.TesteCampoTreinamento" incomplete="true"/>
+    <testcase name="testeLinks" classname="curso_selenium.TesteCampoTreinamento" incomplete="true"/>
+    <testcase name="testeRadio" classname="curso_selenium.TesteCampoTreinamento" incomplete="true"/>
+    <testcase name="testeComboValoresMultiplaEscolha" classname="curso_selenium.TesteCampoTreinamento" incomplete="true"/>
+    <testcase name="testeTexFieldDuplo" classname="curso_selenium.TesteCampoTreinamento" incomplete="true"/>
+    <testcase name="testeBotoes" classname="curso_selenium.TesteCampoTreinamento" incomplete="true"/>
+    <testcase name="testJavascript" classname="curso_selenium.TesteCampoTreinamento" incomplete="true"/>
+    <testcase name="testeTextArea" classname="curso_selenium.TesteCampoTreinamento" incomplete="true"/>
+    <testcase name="testeTextField" classname="curso_selenium.TesteCampoTreinamento" incomplete="true"/>
+    <testcase name="testeTextoPage" classname="curso_selenium.TesteCampoTreinamento" incomplete="true"/>
+    <testcase name="testeComboValores" classname="curso_selenium.TesteCampoTreinamento" incomplete="true"/>
+    <testcase name="deveClicarBotaoTabela" classname="curso_selenium.TesteCampoTreinamento" incomplete="true"/>
+  </testsuite>
+</testrun>

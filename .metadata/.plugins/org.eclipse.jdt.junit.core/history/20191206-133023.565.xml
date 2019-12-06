@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TesteRegrasCadastro (1)" project="curso_selenium.curso_selenium" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="test.TesteRegrasCadastro" time="13.89">
+    <testsuite name="[0]" time="11.652">
+      <testcase name="validarRegras[0]" classname="test.TesteRegrasCadastro" time="11.652"/>
+    </testsuite>
+    <testsuite name="[1]" time="0.413">
+      <testcase name="validarRegras[1]" classname="test.TesteRegrasCadastro" time="0.413"/>
+    </testsuite>
+    <testsuite name="[2]" time="0.409">
+      <testcase name="validarRegras[2]" classname="test.TesteRegrasCadastro" time="0.409"/>
+    </testsuite>
+    <testsuite name="[3]" time="0.663">
+      <testcase name="validarRegras[3]" classname="test.TesteRegrasCadastro" time="0.663"/>
+    </testsuite>
+    <testsuite name="[4]" time="0.753">
+      <testcase name="validarRegras[4]" classname="test.TesteRegrasCadastro" time="0.753"/>
+    </testsuite>
+  </testsuite>
+</testrun>

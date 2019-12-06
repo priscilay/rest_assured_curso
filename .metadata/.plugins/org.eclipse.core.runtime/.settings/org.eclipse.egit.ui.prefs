@@ -1,2 +1,4 @@
-commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>Aplicando sincronismo</message>\r\n<message>atualizando curso</message>\r\n<message>Atualizacao</message>\r\n<message>ajustes</message>\r\n<message>atualizacao curso</message>\r\n<message>Ajustes</message>\r\n<message>Curso Java</message>\r\n</messages>
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>projeto teste</message>\r\n<message>Aplicando sincronismo</message>\r\n<message>atualizando curso</message>\r\n<message>Atualizacao</message>\r\n<message>ajustes</message>\r\n<message>atualizacao curso</message>\r\n<message>Ajustes</message>\r\n<message>Curso Java</message>\r\n</messages>
 eclipse.preferences.version=1
+resourcehistory_graph_split=500,500
+resourcehistory_rev_split=700,300

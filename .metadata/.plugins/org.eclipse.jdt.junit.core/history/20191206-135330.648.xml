@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RunTests (1)" project="curso_selenium.curso_selenium" tests="16" started="9" failures="0" errors="0" ignored="0">
+  <testsuite name="suites.RunTests" incomplete="true">
+    <testsuite name="test.TesteRegrasCadastro" time="15.455">
+      <testsuite name="[0]" time="11.991">
+        <testcase name="validarRegras[0]" classname="test.TesteRegrasCadastro" time="11.991"/>
+      </testsuite>
+      <testsuite name="[1]" time="0.93">
+        <testcase name="validarRegras[1]" classname="test.TesteRegrasCadastro" time="0.93"/>
+      </testsuite>
+      <testsuite name="[2]" time="0.659">
+        <testcase name="validarRegras[2]" classname="test.TesteRegrasCadastro" time="0.659"/>
+      </testsuite>
+      <testsuite name="[3]" time="0.904">
+        <testcase name="validarRegras[3]" classname="test.TesteRegrasCadastro" time="0.904"/>
+      </testsuite>
+      <testsuite name="[4]" time="0.971">
+        <testcase name="validarRegras[4]" classname="test.TesteRegrasCadastro" time="0.971"/>
+      </testsuite>
+    </testsuite>
+    <testsuite name="test.TesteCampoTreinamento" incomplete="true">
+      <testcase name="testeCombo" classname="test.TesteCampoTreinamento" time="0.953"/>
+      <testcase name="testeLinks" classname="test.TesteCampoTreinamento" time="10.807"/>
+      <testcase name="testeRadio" classname="test.TesteCampoTreinamento" time="11.145"/>
+      <testcase name="testeComboValoresMultiplaEscolha" classname="test.TesteCampoTreinamento" incomplete="true"/>
+      <testcase name="testeTexFieldDuplo" classname="test.TesteCampoTreinamento" incomplete="true"/>
+      <testcase name="testeBotoes" classname="test.TesteCampoTreinamento" incomplete="true"/>
+      <testcase name="testeTextArea" classname="test.TesteCampoTreinamento" incomplete="true"/>
+      <testcase name="testeTextField" classname="test.TesteCampoTreinamento" incomplete="true"/>
+      <testcase name="testeTextoPage" classname="test.TesteCampoTreinamento" incomplete="true"/>
+      <testcase name="testeComboValores" classname="test.TesteCampoTreinamento" incomplete="true"/>
+      <testcase name="deveClicarBotaoTabela" classname="test.TesteCampoTreinamento" incomplete="true"/>
+    </testsuite>
+  </testsuite>
+</testrun>
